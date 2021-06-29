@@ -28,7 +28,7 @@ while True:
 
 
 
-    tela.fill(Preto)
+    tela.fill(Preto)#Colocado cor da tela
 
     pygame.draw.circle(tela, Amarelo, (int(x), int(y)), Raio, 0)
     pygame.display.update()
