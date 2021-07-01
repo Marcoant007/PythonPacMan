@@ -1,9 +1,9 @@
 import pygame
 
 pygame.init()
-Amarelo = (255,255, 0)
-Preto = (0,0,0)
-Velocidade = 1
+Amarelo = (255, 255, 0)
+Preto = (0, 0, 0)
+Velocidade = 0.5
 Raio = 30
 x = 10
 y = 10
